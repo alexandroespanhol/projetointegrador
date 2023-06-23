@@ -1,0 +1,12 @@
+selecionar.php --> listagem dos animais,botão para cadastrar um novo animal
+
+novo.php--> formulario para cadastro de novo animal
+inserir--> realizar a inserção no BD
+
+editar.php--> formulario com os dados do animal preechido proto para modificação 
+
+atualizar.php--> realizar a atualização dos dados no BD 
+ 
+deletar.php--> pagina que realiza a exclusão dos dados do animal 
+ 
+ visualizar.php--> pagina com os dados e um unico aluno 
